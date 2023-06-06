@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Modi</h1>
 
 - 🔭 I’m currently working on React JS
-- 
+
 - 💬 Ask me about **Data Structures and Algorithms, Problem Solving**
 
 - 📫 How to reach me **vedantmodi8689@gmail.com**
