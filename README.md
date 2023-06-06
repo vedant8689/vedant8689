@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vedant Modi</h1>
 
-- 🔭 I’m currently working on [React Js]
-
-- 👯 I’m looking to collaborate on **React JS based projects**
-
+- 🔭 I’m currently working on React JS
+- 
 - 💬 Ask me about **Data Structures and Algorithms, Problem Solving**
 
 - 📫 How to reach me **vedantmodi8689@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uPdi4Obw4Qr1B9F2-KA5ZLQO_oQ7AVTf/view?usp=sharing](https://drive.google.com/file/d/1uPdi4Obw4Qr1B9F2-KA5ZLQO_oQ7AVTf/view?usp=sharing)
-
+- 📄 Know about my experiences      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
