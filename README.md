@@ -10,11 +10,17 @@
 
 - 📄 <a href="https://drive.google.com/file/d/1AWP1G_jQVBpxhVV9GqKOIotv3u-xqxR2/view?usp=drivesdk"> Know about my experiences</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vedant-modi-0495161bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-modi-0495161bb" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vdnt_41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ved_41" height="30" width="40" /></a>
-<a href="https://leetcode.com/ved02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ved02" height="30" width="40" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/vedan.t_41/](https://www.instagram.com/vedan.t_41/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vedant-modi-0495161bb/](https://www.linkedin.com/in/vedant-modi-0495161bb/)) 
+</p>
+
+<h3 align="left">Profile: </h3>
+<p align="left">
+[![Codeforces]](https://img.shields.io/badge/Codeforces-%230077B5.svg?logo=codeforces&logoColor=white)]([https://codeforces.com/profile/vdnt_41](https://codeforces.com/profile/vdnt_41)) 
+[![LeetCode]](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white)]([https://leetcode.com/ved02/](https://leetcode.com/ved02/)) 
+
 
 
 </p>
