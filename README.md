@@ -12,18 +12,19 @@
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niraj_vadher_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirajvadher0711) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/vedan.t_41/](https://www.instagram.com/vedan.t_41/))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vedant-modi-0495161bb/](https://www.linkedin.com/in/vedant-modi-0495161bb/)) 
+<a href="[[https://www.instagram.com/vedan.t_41/](https://www.instagram.com/vedan.t_41/)](https://www.instagram.com/vedan.t_41/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="vedan.t_41" height="30" width="40" /></a>
+ 
+<a href="[[https://linkedin.com/in/siddharth-agarwal-a6b50b12a](https://www.linkedin.com/in/vedant-modi-0495161bb/)](https://www.linkedin.com/in/vedant-modi-0495161bb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-modi-0495161bb" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Profile: </h3>
 <p align="left">
-[![Codeforces]](https://img.shields.io/badge/Codeforces-%230077B5.svg?logo=codeforces&logoColor=white)]([https://codeforces.com/profile/vdnt_41](https://codeforces.com/profile/vdnt_41)) 
-[![LeetCode]](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white)]([https://leetcode.com/ved02/](https://leetcode.com/ved02/)) 
-
-
-
+<a href="https://codeforces.com/profile/vdnt_41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vdnt_41" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ved02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ved02" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vedant8689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedant8689" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools (TECH STACKS):</h3>
