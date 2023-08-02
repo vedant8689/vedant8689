@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vedantmodi8689@gmail.com**
 
-- 📄 Know about my experiences      
+- 📄 <a href="https://drive.google.com/file/d/1AWP1G_jQVBpxhVV9GqKOIotv3u-xqxR2/view?usp=drivesdk"> Know about my experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
