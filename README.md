@@ -12,10 +12,6 @@
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/vedan.t_41/](https://www.instagram.com/vedan.t_41/))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vedant-modi-0495161bb/](https://www.linkedin.com/in/vedant-modi-0495161bb/)) 
-<a href="[[https://www.instagram.com/vedan.t_41/](https://www.instagram.com/vedan.t_41/)](https://www.instagram.com/vedan.t_41/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="vedan.t_41" height="30" width="40" /></a>
- 
 <a href="[[https://linkedin.com/in/siddharth-agarwal-a6b50b12a](https://www.linkedin.com/in/vedant-modi-0495161bb/)](https://www.linkedin.com/in/vedant-modi-0495161bb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-modi-0495161bb" height="30" width="40" /></a>
 
 </p>
