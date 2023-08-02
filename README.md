@@ -12,6 +12,7 @@
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niraj_vadher_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirajvadher0711) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/vedan.t_41/](https://www.instagram.com/vedan.t_41/))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vedant-modi-0495161bb/](https://www.linkedin.com/in/vedant-modi-0495161bb/)) 
 </p>
