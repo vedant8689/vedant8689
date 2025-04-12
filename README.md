@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Problem Solving**
 
-- 📫 How to reach me **vedantmodi8689@gmail.com**
+- 📫 How to reach me **vedantmodi41@gmail.com**
   
 - WAMP (Windows, Apache, MySQL, PHP) technologies are another area where I perform well.
 
